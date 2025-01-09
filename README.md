@@ -2,17 +2,6 @@
 
 A RESTful API for managing a library system, including books, authors, and borrowing functionality.
 
-## Table of Contents
-- [Setup Instructions](#setup-instructions)
-  - [Prerequisites](#prerequisites)
-  - [Database Setup](#database-setup)
-  - [Application Setup](#application-setup)
-- [API Documentation](#api-documentation)
-  - [Authentication](#authentication)
-  - [Books](#books)
-  - [Authors](#authors)
-  - [Borrowing](#borrowing)
-
 ## Setup Instructions
 
 ### Prerequisites
